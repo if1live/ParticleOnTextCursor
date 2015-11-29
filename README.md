@@ -3,6 +3,8 @@
 ## Overview
 Implement Particle effect on text cursor.
 
+![Demo](https://raw.githubusercontent.com/if1live/ParticleOnTextCursor/master/document/demo.gif)
+
 Similar with https://github.com/codeinthedark/editor/pull/1
 
 ## TODO
