@@ -1,4 +1,4 @@
-# ParticleOnTextCursora
+# ParticleOnTextCursor
 
 ## Overview
 Implement Particle effect on text cursor.
